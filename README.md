@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srivathsaan
-- 👀 I’m interested in web dev and signal processing
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on web dev
+- 👀 I’m interested in cybersecurity 
+- 🌱 I’m currently learning Google Cybersecurity Professional Certificate
+- 💞️ I’m looking to collaborate on cybersec
 - 📫 How to reach me srivathsaan11@gmail.com
 
 <!---
